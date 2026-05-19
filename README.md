@@ -1,25 +1,61 @@
-# Hi, I'm Yahya 👋
+# Yahya Shaikh
 
-I'm a passionate **Full-Stack Developer** specializing in building scalable web applications and high-performance APIs. My expertise lies in the **PHP & Laravel** ecosystem, with a strong focus on clean code and modern architecture.
+Backend & Automation Engineer focused on Laravel applications, scalable SaaS systems, DevOps workflows, and API-driven platforms.
 
-## 🚀 Featured Projects
+## About
 
-- **[LaraSaaS Core](https://github.com/yahyadeveloper9/LaraSaaS-Core)**: Enterprise-ready Laravel SaaS boilerplate with multi-tenancy.
-- **[NanoPHP Micro-Framework](https://github.com/yahyadeveloper9/PHP-Micro-Framework)**: Lightning-fast, zero-dependency PHP micro-framework.
-- **[Laravel AI Bridge](https://github.com/yahyadeveloper9/Laravel-AI-Bridge)**: Unified AI integration package for Laravel.
-- **[Visionary JS](https://github.com/yahyadeveloper9/JS-Visual-Editor)**: Vanilla JS drag-and-drop page builder library.
-- **[OmniConnect API](https://github.com/yahyadeveloper9/OmniConnect-API)**: Unified integration library for 20+ global gateways.
+I work on backend systems, deployment workflows, automation utilities, and business-focused web applications. Most of my work is centered around Laravel, PHP infrastructure, Linux environments, and developer tooling.
 
-## 🛠️ Tech Stack
+I enjoy building practical systems that improve reliability, deployment speed, and application maintainability.
 
-- **Languages:** PHP (Expert), JavaScript, TypeScript, SQL, Shell.
-- **Frameworks:** Laravel, React, Inertia.js, Tailwind CSS.
-- **Tools:** Docker, Redis, MySQL, Git, GitHub Actions.
+## Current Focus
 
-## 📊 Language Stats
-- **PHP / Laravel:** 60%
-- **JavaScript:** 10%
-- **Other:** 30%
+- Laravel application architecture
+- SaaS workflows and internal tooling
+- API integrations and backend services
+- Docker and server automation
+- CI/CD workflows
+- Security-aware development practices
 
----
-*Feel free to explore my repositories and reach out for collaborations!*
+## Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- REST APIs
+- MySQL
+- Redis
+
+### DevOps & Infrastructure
+- Docker
+- Nginx
+- Linux
+- GitHub Actions
+- Ubuntu Server
+
+### Frontend
+- JavaScript
+- Tailwind CSS
+- Blade
+
+## Featured Repositories
+
+- LaraSaaS-Core
+- Laravel-AI-Bridge
+- OmniConnect-API
+- FleetScore
+- bash-server-scripts
+- awesome-php-security
+
+## Engineering Interests
+
+- Backend performance optimization
+- Deployment automation
+- Multi-tenant SaaS architecture
+- Infrastructure tooling
+- API security
+- Developer experience improvements
+
+## Contact
+
+Open to remote backend engineering and DevOps-focused opportunities.
