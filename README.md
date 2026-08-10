@@ -80,7 +80,7 @@ I am a **DevSecOps Engineer & Cloud Security Specialist** with a strong foundati
 | ⚡ **[aws-serverless-secops-remediation](https://github.com/yahyadeveloper9/aws-serverless-secops-remediation)** | Serverless Threat Auto-Remediation | Event-driven security automation via AWS Lambda, EventBridge, GuardDuty, and Terraform for real-time threat isolation. |
 | ☸️ **[k8s-zerotrust-vault-gitops](https://github.com/yahyadeveloper9/k8s-zerotrust-vault-gitops)** | Kubernetes & GitOps Security | Zero-Trust Kubernetes cluster using ArgoCD, HashiCorp Vault dynamic secret injection, Kyverno policy enforcement, and Istio mTLS. |
 | 🏗️ **[terraform-compliance-sentinel](https://github.com/yahyadeveloper9/terraform-compliance-sentinel)** | Infrastructure as Code & Compliance | Modular Terraform landing zone with automated Checkov/TFSec compliance scanning against CIS Benchmarks and drift detection. |
-| 🌐 **[pinecodeict](https://github.com/yahyadeveloper9/pinecodeict)** | Production System | Modern web application platform with scalable cloud infrastructure. |
+
 
 ---
 
